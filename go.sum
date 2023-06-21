@@ -1,4 +1,4 @@
-go.melnyk.org/hufid v1.0.0-pre.0 h1:BLovvF6OISMJQy9bOHHRLjCUmMwrxEFbu6MZ0aELIW4=
-go.melnyk.org/hufid v1.0.0-pre.0/go.mod h1:MaFbCmjSZ4mWqdptJN+RUvuzJim0qmRrNkPh4vkoYtA=
-golang.org/x/sys v0.0.0-20200107162124-548cf772de50 h1:YvQ10rzcqWXLlJZ3XCUoO25savxmscf4+SC+ZqiCHhA=
-golang.org/x/sys v0.0.0-20200107162124-548cf772de50/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+go.melnyk.org/hufid v1.0.0 h1:KBqKwXUCJxnMemQlcWPzcGPl0wq15Z1p8pqoxZXe9y8=
+go.melnyk.org/hufid v1.0.0/go.mod h1:MaFbCmjSZ4mWqdptJN+RUvuzJim0qmRrNkPh4vkoYtA=
+golang.org/x/sys v0.9.0 h1:KS/R3tvhPqvJvwcKfnBHJwwthS11LRhmM5D59eEXa0s=
+golang.org/x/sys v0.9.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
